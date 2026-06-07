@@ -26,3 +26,4 @@ The workbook is systematically organized into two primary tabs, employing a **Sl
   * 🟥 **Muted Red:** Negative public outcry / System bugs / Brand complaints.
   * 🟨 **Muted Yellow:** Neutral press releases or corporate news.
   * ⬜ **Soft Gray:** Irrelevant mentions or casual background noise.
+visulization.png

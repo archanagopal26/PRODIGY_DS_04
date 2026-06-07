@@ -18,6 +18,7 @@ The workbook is systematically organized into two primary tabs, employing a **Sl
 * **Interactive Data Visualizations:**
   * **Share of Voice (Pie Chart):** Outlines the absolute distribution of general public attitude.
   * **Brand Sentiment Matrix (Stacked Column Chart):** Compares entity-level sentiment side-by-side to pinpoint exactly which brands or products suffer from public relations spikes or technical backlash.
+  * ![Brand Sentiment Share Profile](brand_sentiment_distribution.png)`
 
 ### 2. Social Media Data Feed (Tab 2)
 * **Granular Data Log:** Maps unique `Tweet ID`, `Entity / Brand`, `Sentiment Polarity`, and raw `Tweet Content`.
@@ -26,4 +27,5 @@ The workbook is systematically organized into two primary tabs, employing a **Sl
   * 🟥 **Muted Red:** Negative public outcry / System bugs / Brand complaints.
   * 🟨 **Muted Yellow:** Neutral press releases or corporate news.
   * ⬜ **Soft Gray:** Irrelevant mentions or casual background noise.
-visulization.png
+
+![Overall Volume Matrix](overall_sentiment_volume.png)
